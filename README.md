@@ -5,6 +5,10 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+software engineering involves the use of engineering principles to design, test, develop and maintain software systems. It ensures
+the software is reliable, efficient and maintainbable to meet the user needs.
+software engineering importance is that they manage complexity. modern software systems are highly complex which require many lines of code. software engineering methodologies like DevOps help manage this complexity and keep projects on track.
+software engineering help minimise errors
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
